@@ -1,2 +1,2 @@
 # Pong
-Pong Game as an exercices
+Pong Game as an exercice
